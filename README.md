@@ -19,7 +19,7 @@ Ice Glasses
         When you open your mouth, it switches between the two models and creates a feeling of the glasses instantly freezing.
     What will I need/use to achieve it?
         I will probably use blender 2.8 for the texturing part, because I'm already familiar with procedural texturing within blender and I also know how to bake those textures, so I can use it in any other 3D Software. 
-        For the Filter to work, I will use  Spark AR.
+        For the Filter to work, I will use  Spark AR. 
 
 
 #Ideas
