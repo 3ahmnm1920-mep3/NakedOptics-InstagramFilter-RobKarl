@@ -39,3 +39,9 @@ https://www.youtube.com/watch?v=ZOX7L57woco
 
 Spark AR Tutorial: Gif to Sprite Sheet | 2 Face trackers | Animation sequence
 https://www.youtube.com/watch?v=D5w-QcVNt3U
+
+After Effects Tutorial: Ice Over
+https://www.youtube.com/watch?v=8swmpuxgPhU
+
+#Documentation
+
