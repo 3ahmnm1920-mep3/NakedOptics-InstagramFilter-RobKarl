@@ -5,7 +5,7 @@
     The task is to make an instagram-filter using spark AR and a 3D modell of some "Naked-Optics"-glasses. 
 
 #Visuals
-
+Look into the "Visuals" folder
 
 #Concept
 
@@ -29,6 +29,10 @@ Ice Glasses
 - Shattered Glasses (Physical correct RigidBody-animation of the glasses shattering into little parts)
 
 
+#Software
+Spark AR Studio v84
+
+
 #References
 
 3D OBJECTS in INSTAGRAM FACE FILTER / Spark AR tutorial
@@ -45,3 +49,4 @@ https://www.youtube.com/watch?v=8swmpuxgPhU
 
 #Documentation
 
+I watched some YouTube Videos and learned really rough how the program works.. I couldn't find anything similar to the effect I wanted to create, so I had to figure it out for myself. In the end I think it turned out alright, so I am pretty confident with the result.
